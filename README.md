@@ -5,3 +5,4 @@ git clone https://github.com/username/my-first-repo.git
 cd my-first-repo
 echo "Hello GitHub!" > hello.txt
 git add .
+
